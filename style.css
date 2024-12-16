@@ -1,0 +1,35 @@
+body {
+    background-color: azure;
+}
+
+div {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 5px;
+}
+p {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 50px;
+
+}
+h3 {
+    text-align: end;
+    font-size: 15px;
+}
+#outer {
+    height: 350px;
+    width: 600px;
+    float: left;
+}
+#comment {
+    text-align: start;
+    background-color: rgb(204, 240, 252);
+}
